@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Data
+*.pkl
+*.png
+
+# Environments
+.env
+.venv/
+venv/
